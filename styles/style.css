@@ -28,4 +28,10 @@ header p {
     color: #b4b4b4;
 }
 
-.slider {}
+.slider {
+    display: inline-block;
+    overflow: auto;
+    width: 100%;
+    height: 20vh;
+    padding-left: 1rem;
+}
